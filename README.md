@@ -1,5 +1,5 @@
 # Nike-Redesigned
-Here the Figma file i attached bellow
+Figma file i attached 
 [nike_new.zip](https://github.com/kuttyprem/Nike-Redesigned/files/6968315/nike_new.zip)
 # Overall Design
 ![final](https://user-images.githubusercontent.com/88392404/129028558-6c293ba7-5326-4a5c-831e-17da1462277f.PNG)
